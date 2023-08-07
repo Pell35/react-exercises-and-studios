@@ -1,4 +1,4 @@
-import { render } from 'react-dom/cjs/react-dom.production.min';
+//import { render } from 'react-dom/cjs/react-dom.production.min';
 import styles from './Description.module.css';
 import React from 'react';
 const RecipeAuthor = () => {
